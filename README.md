@@ -23,7 +23,7 @@ This repository contains a collection of my projects focused on artificial intel
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/LyeZinho/my-aiprojects.git
 ```
 
 2. Explore each project folder to find the source code and documentation.
