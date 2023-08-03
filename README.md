@@ -1,6 +1,8 @@
 # Artificial Intelligence Projects
 
-![Main Image](https://pedrojesus.vercel.app/plogos/tensorflow-original.svg)
+<p align="center" width="100%">
+    <img src="https://pedrojesus.vercel.app/plogos/tensorflow-original.svg" alt="Dev's Café" width=300 height=300>
+</p>
 
 This repository contains a collection of my projects focused on artificial intelligence. Each project explores different aspects of AI and aims to enhance my understanding and expertise in this exciting field.
 
