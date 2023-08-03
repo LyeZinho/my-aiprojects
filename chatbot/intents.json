@@ -1,0 +1,19 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey"],
+            "responses": ["Hello!", "Hi there!", "Hey!"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "Goodbye", "See you"],
+            "responses": ["Goodbye!", "See you later!", "Take care!"]
+        },
+        {
+            "tag": "age",
+            "patterns": ["How old are you?", "What's your age?"],
+            "responses": ["I'm a chatbot. I don't have an age.", "Age is just a number for me!"]
+        }
+    ]
+}
